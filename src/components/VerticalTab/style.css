@@ -1,0 +1,36 @@
+.tabs {
+  margin-top: 15vh;
+}
+
+img {
+  width: 300px;
+}
+
+.fs-24 {
+  font-weight: bold;
+  font-size: 25px;
+}
+.tab-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.tab_btn {
+  background: transparent;
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  color: hsla(0, 0%, 100%, 0.15);
+  transition: all ease-in 0.5s;
+  border-left: 2px solid hsla(0, 0%, 100%, 0.15);
+}
+.active {
+  border-left: 2px solid #42b3f4;
+  color: rgb(255, 255, 255) !important;
+}
+
+.tab_btn:hover {
+  color: rgb(255, 255, 255) !important;
+}

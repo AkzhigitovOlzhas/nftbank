@@ -1,0 +1,32 @@
+.bg_footer {
+  background: #0a0522;
+}
+.footer_advantages {
+  margin: 70px 0 !important;
+  margin-bottom: 30px !important;
+}
+
+.footer_icon {
+  padding: 6px;
+  background: #3b43ff;
+  border-radius: 10px;
+}
+
+.footer_title {
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+.footer_card {
+  margin-bottom: 30px;
+}
+
+.logo_icon {
+  padding: 15px;
+  border-radius: 10px;
+  transition: 0.5s;
+  background: rgba(255, 255, 255, 0.1);
+}
+.logo_icon:hover {
+  background: rgba(255, 255, 255, 0.25);
+}

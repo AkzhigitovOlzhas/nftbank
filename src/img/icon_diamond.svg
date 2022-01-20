@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Diamond-Duotone</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-863.000000, -4504.000000)">
+            <g id="Group-8" transform="translate(857.000000, 4498.000000)">
+                <g id="Diamond-Duotone" transform="translate(6.000000, 6.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M2.5,8.825 L11.5375,21 C11.5948677,21.0681761 11.6623121,21.1271899 11.7375,21.175 C11.9061208,21.2418239 12.0938792,21.2418239 12.2625,21.175 C12.3376879,21.1271899 12.4051323,21.0681761 12.4625,21 L21.5,8.825 L2.5,8.825 Z M12,16.3250398 C11.8447804,16.323452 11.6964816,16.2605374 11.5875,16.15 C11.4837236,16.0376161 11.4257561,15.8904677 11.425,15.7375 L11.425,11.125 C11.4251522,10.9756205 11.4834316,10.8321635 11.5875,10.725 C11.6957773,10.6135022 11.8445789,10.5505855 12,10.5505855 C12.1554211,10.5505855 12.3042227,10.6135022 12.4125,10.725 C12.5165684,10.8321635 12.5748478,10.9756205 12.575,11.125 L12.575,15.75 C12.5742439,15.9029677 12.5162764,16.0501161 12.4125,16.1625 C12.3014995,16.2684608 12.1534458,16.326785 12,16.3250398 L12,16.3250398 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill-opacity="0.5" fill="#FFFFFF" fill-rule="nonzero" points="21.525 7.675 13.4375 7.675 17.925 3.125"></polygon>
+                    <polygon id="Path" fill-opacity="0.5" fill="#FFFFFF" fill-rule="nonzero" points="16.6625 2.775 12 7.4875 7.3375 2.775"></polygon>
+                    <polygon id="Path" fill-opacity="0.5" fill="#FFFFFF" fill-rule="nonzero" points="10.5625 7.675 2.475 7.675 6.075 3.125"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
